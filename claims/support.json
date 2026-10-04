@@ -1,0 +1,29 @@
+{
+  "note": "Labels written with the KB, before any model call. supported = the cited file states or directly implies the claim. kind: supported / contradicts / silent.",
+  "claims": [
+    {"id": "s01", "cite": "01-console-setup.md", "label": true, "kind": "supported", "claim": "An unarmed lane records nothing even if the swimmer touches the pad."},
+    {"id": "s02", "cite": "01-console-setup.md", "label": true, "kind": "supported", "claim": "Two of the three backup buttons must be pressed for a backup time to count."},
+    {"id": "s03", "cite": "01-console-setup.md", "label": true, "kind": "supported", "claim": "Times can only be pulled by the results laptop after the race is saved."},
+    {"id": "s04", "cite": "02-scoreboard-link.md", "label": true, "kind": "supported", "claim": "Swimmer names are loaded from a USB key, not sent over the timing cable."},
+    {"id": "s05", "cite": "02-scoreboard-link.md", "label": true, "kind": "supported", "claim": "The scoreboard laptop and the results laptop do not need matching COM port numbers."},
+    {"id": "s06", "cite": "03-troubleshooting.md", "label": true, "kind": "supported", "claim": "If a lane fault moves with the pad when pads are swapped, the pad is faulty."},
+    {"id": "s07", "cite": "03-troubleshooting.md", "label": true, "kind": "supported", "claim": "Disabling USB selective suspend helps keep the scoreboard serial adapter awake."},
+    {"id": "s08", "cite": "03-troubleshooting.md", "label": true, "kind": "supported", "claim": "After a power cut the console boots with the course set to 25 yards."},
+    {"id": "s09", "cite": "03-troubleshooting.md", "label": true, "kind": "supported", "claim": "The scoreboard laptop's USB serial adapter only works reliably in the left USB port."},
+    {"id": "s10", "cite": "04-meet-day.md", "label": true, "kind": "supported", "claim": "A one-lap test race is run about an hour before the meet."},
+    {"id": "s11", "cite": "05-equipment-reference.md", "label": true, "kind": "supported", "claim": "A spare 15 m scoreboard cable is kept at the timing desk."},
+    {"id": "s12", "cite": "05-equipment-reference.md", "label": true, "kind": "supported", "claim": "Backup button B is blue."},
+    {"id": "u01", "cite": "01-console-setup.md", "label": false, "kind": "contradicts", "claim": "Pressing Reset without Save keeps the race so it can be pulled later."},
+    {"id": "u02", "cite": "01-console-setup.md", "label": false, "kind": "contradicts", "claim": "A single backup button press is enough for a backup time to count."},
+    {"id": "u03", "cite": "02-scoreboard-link.md", "label": false, "kind": "contradicts", "claim": "On this rig, live names reach the board over the RS-485 outputs."},
+    {"id": "u04", "cite": "03-troubleshooting.md", "label": false, "kind": "contradicts", "claim": "A console that shuts down within a minute of starting usually has a faulty touch pad."},
+    {"id": "u05", "cite": "03-troubleshooting.md", "label": false, "kind": "contradicts", "claim": "The spare horn battery is kept in the scoreboard laptop bag."},
+    {"id": "u06", "cite": "05-equipment-reference.md", "label": false, "kind": "contradicts", "claim": "The H8-8 harness serves 10 lanes."},
+    {"id": "u07", "cite": "05-equipment-reference.md", "label": false, "kind": "contradicts", "claim": "Two spare touch pads are kept at the timing desk."},
+    {"id": "u08", "cite": "01-console-setup.md", "label": false, "kind": "silent", "claim": "The console's touch screen can be calibrated from the Settings menu."},
+    {"id": "u09", "cite": "02-scoreboard-link.md", "label": false, "kind": "silent", "claim": "BoardLink can show swimmer photos on the board."},
+    {"id": "u10", "cite": "04-meet-day.md", "label": false, "kind": "silent", "claim": "Officials meet at the timing desk 30 minutes before the meet."},
+    {"id": "u11", "cite": "03-troubleshooting.md", "label": false, "kind": "silent", "claim": "A blown fuse inside the console can be replaced on deck."},
+    {"id": "u12", "cite": "05-equipment-reference.md", "label": false, "kind": "silent", "claim": "The start horn volume can be adjusted with a dial."}
+  ]
+}

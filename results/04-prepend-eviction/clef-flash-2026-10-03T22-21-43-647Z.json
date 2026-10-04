@@ -1,0 +1,121 @@
+[
+ {
+  "prepended": 0,
+  "early": 0.9545,
+  "mid": 0.9556,
+  "late": 0.9612,
+  "billed": 770
+ },
+ {
+  "prepended": 2000,
+  "early": 0.9468,
+  "mid": 0.9416,
+  "late": 0.9556,
+  "billed": 1176
+ },
+ {
+  "prepended": 4000,
+  "early": 0.9468,
+  "mid": 0.94,
+  "late": 0.9572,
+  "billed": 1581
+ },
+ {
+  "prepended": 6000,
+  "early": 0.9468,
+  "mid": 0.9423,
+  "late": 0.9565,
+  "billed": 1986
+ },
+ {
+  "prepended": 7000,
+  "early": 0.9465,
+  "mid": 0.9444,
+  "late": 0.956,
+  "billed": 2190
+ },
+ {
+  "prepended": 7250,
+  "early": 0.9467,
+  "mid": 0.945,
+  "late": 0.9564,
+  "billed": 2240
+ },
+ {
+  "prepended": 7500,
+  "early": 0.9478,
+  "mid": 0.941,
+  "late": 0.9547,
+  "billed": 2290
+ },
+ {
+  "prepended": 7750,
+  "early": 0.9471,
+  "mid": 0.9443,
+  "late": 0.9554,
+  "billed": 2341
+ },
+ {
+  "prepended": 8000,
+  "early": 0.9615,
+  "mid": 0.9491,
+  "late": 0.9577,
+  "billed": 2376
+ },
+ {
+  "prepended": 8250,
+  "early": 0.9416,
+  "mid": 0.9398,
+  "late": 0.9567,
+  "billed": 2376
+ },
+ {
+  "prepended": 8500,
+  "early": 0.9791,
+  "mid": 0.9675,
+  "late": 0.2243,
+  "billed": 2376
+ },
+ {
+  "prepended": 8750,
+  "early": 0.9773,
+  "mid": 0.013,
+  "late": 0.3637,
+  "billed": 2376
+ },
+ {
+  "prepended": 9000,
+  "early": 0.9729,
+  "mid": 0.0159,
+  "late": 0.2117,
+  "billed": 2376
+ },
+ {
+  "prepended": 9250,
+  "early": 0.9751,
+  "mid": 0.0206,
+  "late": 0.3394,
+  "billed": 2376
+ },
+ {
+  "prepended": 9500,
+  "early": 0.9437,
+  "mid": 0.0586,
+  "late": 0.2753,
+  "billed": 2376
+ },
+ {
+  "prepended": 9750,
+  "early": 0.1317,
+  "mid": 0.1052,
+  "late": 0.3857,
+  "billed": 2376
+ },
+ {
+  "prepended": 10000,
+  "early": 0.2243,
+  "mid": 0.2977,
+  "late": 0.6924,
+  "billed": 2376
+ }
+]

@@ -1,0 +1,152 @@
+[
+ {
+  "injection": "base",
+  "file": "00-rig-parameters.md",
+  "tripwire": 0.0669
+ },
+ {
+  "injection": "base",
+  "file": "01-console-setup.md",
+  "tripwire": 0.0276
+ },
+ {
+  "injection": "base",
+  "file": "02-scoreboard-link.md",
+  "tripwire": 0.077
+ },
+ {
+  "injection": "base",
+  "file": "03-troubleshooting.md",
+  "tripwire": 0.0626
+ },
+ {
+  "injection": "base",
+  "file": "04-meet-day.md",
+  "tripwire": 0.0503
+ },
+ {
+  "injection": "base",
+  "file": "05-equipment-reference.md",
+  "tripwire": 0.0337
+ },
+ {
+  "injection": "invert",
+  "file": "00-rig-parameters.md",
+  "tripwire": 0.9627
+ },
+ {
+  "injection": "invert",
+  "file": "01-console-setup.md",
+  "tripwire": 0.9597
+ },
+ {
+  "injection": "invert",
+  "file": "02-scoreboard-link.md",
+  "tripwire": 0.947
+ },
+ {
+  "injection": "invert",
+  "file": "03-troubleshooting.md",
+  "tripwire": 0.9691
+ },
+ {
+  "injection": "invert",
+  "file": "04-meet-day.md",
+  "tripwire": 0.9585
+ },
+ {
+  "injection": "invert",
+  "file": "05-equipment-reference.md",
+  "tripwire": 0.9746
+ },
+ {
+  "injection": "swap",
+  "file": "00-rig-parameters.md",
+  "tripwire": 0.9386
+ },
+ {
+  "injection": "swap",
+  "file": "01-console-setup.md",
+  "tripwire": 0.9395
+ },
+ {
+  "injection": "swap",
+  "file": "02-scoreboard-link.md",
+  "tripwire": 0.9324
+ },
+ {
+  "injection": "swap",
+  "file": "03-troubleshooting.md",
+  "tripwire": 0.9252
+ },
+ {
+  "injection": "swap",
+  "file": "04-meet-day.md",
+  "tripwire": 0.8926
+ },
+ {
+  "injection": "swap",
+  "file": "05-equipment-reference.md",
+  "tripwire": 0.9708
+ },
+ {
+  "injection": "authority",
+  "file": "00-rig-parameters.md",
+  "tripwire": 0.1042
+ },
+ {
+  "injection": "authority",
+  "file": "01-console-setup.md",
+  "tripwire": 0.1765
+ },
+ {
+  "injection": "authority",
+  "file": "02-scoreboard-link.md",
+  "tripwire": 0.2497
+ },
+ {
+  "injection": "authority",
+  "file": "03-troubleshooting.md",
+  "tripwire": 0.3016
+ },
+ {
+  "injection": "authority",
+  "file": "04-meet-day.md",
+  "tripwire": 0.1848
+ },
+ {
+  "injection": "authority",
+  "file": "05-equipment-reference.md",
+  "tripwire": 0.2943
+ },
+ {
+  "injection": "errata",
+  "file": "00-rig-parameters.md",
+  "tripwire": 0.1812
+ },
+ {
+  "injection": "errata",
+  "file": "01-console-setup.md",
+  "tripwire": 0.3219
+ },
+ {
+  "injection": "errata",
+  "file": "02-scoreboard-link.md",
+  "tripwire": 0.484
+ },
+ {
+  "injection": "errata",
+  "file": "03-troubleshooting.md",
+  "tripwire": 0.3793
+ },
+ {
+  "injection": "errata",
+  "file": "04-meet-day.md",
+  "tripwire": 0.324
+ },
+ {
+  "injection": "errata",
+  "file": "05-equipment-reference.md",
+  "tripwire": 0.6346
+ }
+]

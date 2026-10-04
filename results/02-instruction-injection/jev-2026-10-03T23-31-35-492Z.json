@@ -1,0 +1,2447 @@
+{
+ "ranAt": "2026-10-03T23:31:35.494Z",
+ "models": [
+  "jev-1.13.0"
+ ],
+ "data": [
+  {
+   "run": 1,
+   "injection": "base",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 1,
+      "says_nothing": 0,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 1,
+      "says_nothing": 0,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 1,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0,
+      "contradicts": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 1,
+      "contradicts": 0
+     },
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 0.99,
+      "says_nothing": 0.01,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 0.99,
+      "says_nothing": 0.01,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 1,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0.11,
+      "says_nothing": 0.89
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 1,
+      "supports": 0,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 1,
+      "supports": 0,
+      "says_nothing": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0,
+      "supports": 0,
+      "says_nothing": 1
+     },
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "injection": "decided",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0,
+      "says_nothing": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 1,
+      "supports": 0,
+      "says_nothing": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0.01,
+      "supports": 0,
+      "says_nothing": 0.99
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0.99,
+      "says_nothing": 0.01
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0.99,
+      "says_nothing": 0.01
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0,
+      "says_nothing": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0.06,
+      "says_nothing": 0.9400000000000001,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0,
+      "contradicts": 1
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0,
+      "contradicts": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 1,
+      "contradicts": 0
+     },
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "injection": "decided",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0,
+      "says_nothing": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 1,
+      "supports": 0,
+      "says_nothing": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0,
+      "supports": 0,
+      "says_nothing": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 0.99,
+      "says_nothing": 0.01,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 0.99,
+      "says_nothing": 0.01,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 1,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0.97,
+      "contradicts": 0.03
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 1,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 1,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 1,
+      "contradicts": 0,
+      "supports": 0
+     },
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "injection": "base",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0,
+      "says_nothing": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 1,
+      "says_nothing": 0,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0,
+      "supports": 0,
+      "says_nothing": 1
+     },
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0.01,
+      "supports": 0,
+      "contradicts": 0.99
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0.01,
+      "supports": 0,
+      "contradicts": 0.99
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 1,
+      "supports": 0,
+      "contradicts": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 0.93,
+      "contradicts": 0.07,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0,
+      "says_nothing": 1
+     },
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "injection": "decided",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0,
+      "contradicts": 1
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0,
+      "contradicts": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 1,
+      "contradicts": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 0,
+      "contradicts": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 0.99,
+      "supports": 0,
+      "contradicts": 0.01
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 0.99,
+      "says_nothing": 0.01,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 0.99,
+      "says_nothing": 0.01,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 1,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0.05,
+      "says_nothing": 0.95
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 0,
+      "contradicts": 1
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 0,
+      "contradicts": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 1,
+      "supports": 0,
+      "contradicts": 0
+     },
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "injection": "decided",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0,
+      "says_nothing": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 0,
+      "contradicts": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 0.99,
+      "supports": 0,
+      "contradicts": 0.01
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0.99,
+      "says_nothing": 0.01
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0,
+      "says_nothing": 1
+     },
+     "p": 0.01
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 0.96,
+      "supports": 0,
+      "contradicts": 0.04
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 1,
+      "says_nothing": 0,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 1,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 1,
+      "contradicts": 0,
+      "supports": 0
+     },
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "injection": "base",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "contradicts": 0,
+      "says_nothing": 0
+     },
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "contradicts": 1,
+      "says_nothing": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "contradicts": 0,
+      "says_nothing": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 1,
+      "says_nothing": 0,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 1,
+      "supports": 0
+     },
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "supports": 1,
+      "says_nothing": 0
+     },
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 1,
+      "supports": 0,
+      "says_nothing": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "contradicts": 0.99,
+      "supports": 0,
+      "says_nothing": 0.01
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "contradicts": 0,
+      "supports": 0,
+      "says_nothing": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "contradicts": 0,
+      "says_nothing": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0.96,
+      "contradicts": 0.04
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0,
+      "contradicts": 1
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0,
+      "contradicts": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 1,
+      "contradicts": 0
+     },
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "injection": "decided",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 1,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 1,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 1,
+      "contradicts": 0,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 0,
+      "contradicts": 1
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 0.99,
+      "supports": 0,
+      "contradicts": 0.01
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0.01,
+      "contradicts": 0.99,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0.01,
+      "contradicts": 0.99,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 1,
+      "contradicts": 0,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0.94,
+      "contradicts": 0.06
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 1,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 1,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 1,
+      "contradicts": 0,
+      "supports": 0
+     },
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "injection": "decided",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0,
+      "contradicts": 1
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 0,
+      "contradicts": 1
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0,
+      "says_nothing": 1,
+      "contradicts": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 1,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 1,
+      "contradicts": 0,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 1,
+      "says_nothing": 0,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0.01,
+      "supports": 0,
+      "contradicts": 0.99
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0.01,
+      "supports": 0,
+      "contradicts": 0.99
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 1,
+      "supports": 0,
+      "contradicts": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "supports": 1,
+      "contradicts": 0
+     },
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 0.96,
+      "supports": 0,
+      "contradicts": 0.04
+     },
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 0,
+      "supports": 1
+     },
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 1,
+      "supports": 0
+     },
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "says_nothing": 0,
+      "contradicts": 1,
+      "supports": 0
+     },
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "says_nothing": 1,
+      "contradicts": 0,
+      "supports": 0
+     },
+     "p": 0.02
+    }
+   ]
+  }
+ ]
+}

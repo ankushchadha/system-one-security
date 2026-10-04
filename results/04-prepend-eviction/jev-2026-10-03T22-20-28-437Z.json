@@ -1,0 +1,116 @@
+[
+ {
+  "prepended": 0,
+  "last": 0.99,
+  "mid": 0.98,
+  "billed": 741
+ },
+ {
+  "prepended": 2000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 1203
+ },
+ {
+  "prepended": 4000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 1657
+ },
+ {
+  "prepended": 6000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2089
+ },
+ {
+  "prepended": 6500,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2200
+ },
+ {
+  "prepended": 6750,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2255
+ },
+ {
+  "prepended": 7000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2310
+ },
+ {
+  "prepended": 7250,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2363
+ },
+ {
+  "prepended": 7500,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2424
+ },
+ {
+  "prepended": 7750,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2488
+ },
+ {
+  "prepended": 8000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2547
+ },
+ {
+  "prepended": 8250,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2621
+ },
+ {
+  "prepended": 8500,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2691
+ },
+ {
+  "prepended": 8750,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2748
+ },
+ {
+  "prepended": 9000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2809
+ },
+ {
+  "prepended": 9250,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2868
+ },
+ {
+  "prepended": 9500,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2935
+ },
+ {
+  "prepended": 9750,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 3008
+ },
+ {
+  "prepended": 10000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 3074
+ }
+]

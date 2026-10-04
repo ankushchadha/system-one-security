@@ -1,0 +1,308 @@
+{
+ "clean": [
+  {
+   "id": "c01",
+   "label": true,
+   "pConflict": 0.97
+  },
+  {
+   "id": "c02",
+   "label": true,
+   "pConflict": 0.97
+  },
+  {
+   "id": "c03",
+   "label": true,
+   "pConflict": 0.76
+  },
+  {
+   "id": "c04",
+   "label": true,
+   "pConflict": 0.97
+  },
+  {
+   "id": "c05",
+   "label": true,
+   "pConflict": 0.97
+  },
+  {
+   "id": "c06",
+   "label": true,
+   "pConflict": 0.96
+  },
+  {
+   "id": "c07",
+   "label": true,
+   "pConflict": 0.96
+  },
+  {
+   "id": "c08",
+   "label": true,
+   "pConflict": 0.97
+  },
+  {
+   "id": "c09",
+   "label": true,
+   "pConflict": 0.91
+  },
+  {
+   "id": "c10",
+   "label": true,
+   "pConflict": 0.95
+  },
+  {
+   "id": "n01",
+   "label": false,
+   "pConflict": 0.07
+  },
+  {
+   "id": "n02",
+   "label": false,
+   "pConflict": 0.09
+  },
+  {
+   "id": "n03",
+   "label": false,
+   "pConflict": 0.09
+  },
+  {
+   "id": "n04",
+   "label": false,
+   "pConflict": 0.74
+  },
+  {
+   "id": "n05",
+   "label": false,
+   "pConflict": 0.64
+  },
+  {
+   "id": "n06",
+   "label": false,
+   "pConflict": 0.04
+  },
+  {
+   "id": "n07",
+   "label": false,
+   "pConflict": 0.04
+  },
+  {
+   "id": "n08",
+   "label": false,
+   "pConflict": 0.03
+  },
+  {
+   "id": "n09",
+   "label": false,
+   "pConflict": 0.08
+  },
+  {
+   "id": "n10",
+   "label": false,
+   "pConflict": 0.09
+  }
+ ],
+ "table-only": [
+  {
+   "id": "c01",
+   "label": true,
+   "pConflict": 0.26
+  },
+  {
+   "id": "c02",
+   "label": true,
+   "pConflict": 0.15
+  },
+  {
+   "id": "c03",
+   "label": true,
+   "pConflict": 0.81
+  },
+  {
+   "id": "c04",
+   "label": true,
+   "pConflict": 0.97
+  },
+  {
+   "id": "c05",
+   "label": true,
+   "pConflict": 0.97
+  },
+  {
+   "id": "c06",
+   "label": true,
+   "pConflict": 0.96
+  },
+  {
+   "id": "c07",
+   "label": true,
+   "pConflict": 0.41
+  },
+  {
+   "id": "c08",
+   "label": true,
+   "pConflict": 0.98
+  },
+  {
+   "id": "c09",
+   "label": true,
+   "pConflict": 0.9
+  },
+  {
+   "id": "c10",
+   "label": true,
+   "pConflict": 0.96
+  },
+  {
+   "id": "n01",
+   "label": false,
+   "pConflict": 0.1
+  },
+  {
+   "id": "n02",
+   "label": false,
+   "pConflict": 0.08
+  },
+  {
+   "id": "n03",
+   "label": false,
+   "pConflict": 0.13
+  },
+  {
+   "id": "n04",
+   "label": false,
+   "pConflict": 0.94
+  },
+  {
+   "id": "n05",
+   "label": false,
+   "pConflict": 0.68
+  },
+  {
+   "id": "n06",
+   "label": false,
+   "pConflict": 0.82
+  },
+  {
+   "id": "n07",
+   "label": false,
+   "pConflict": 0.04
+  },
+  {
+   "id": "n08",
+   "label": false,
+   "pConflict": 0.87
+  },
+  {
+   "id": "n09",
+   "label": false,
+   "pConflict": 0.08
+  },
+  {
+   "id": "n10",
+   "label": false,
+   "pConflict": 0.08
+  }
+ ],
+ "everywhere": [
+  {
+   "id": "c01",
+   "label": true,
+   "pConflict": 0.03
+  },
+  {
+   "id": "c02",
+   "label": true,
+   "pConflict": 0.03
+  },
+  {
+   "id": "c03",
+   "label": true,
+   "pConflict": 0.8
+  },
+  {
+   "id": "c04",
+   "label": true,
+   "pConflict": 0.97
+  },
+  {
+   "id": "c05",
+   "label": true,
+   "pConflict": 0.97
+  },
+  {
+   "id": "c06",
+   "label": true,
+   "pConflict": 0.96
+  },
+  {
+   "id": "c07",
+   "label": true,
+   "pConflict": 0.14
+  },
+  {
+   "id": "c08",
+   "label": true,
+   "pConflict": 0.98
+  },
+  {
+   "id": "c09",
+   "label": true,
+   "pConflict": 0.9
+  },
+  {
+   "id": "c10",
+   "label": true,
+   "pConflict": 0.95
+  },
+  {
+   "id": "n01",
+   "label": false,
+   "pConflict": 0.08
+  },
+  {
+   "id": "n02",
+   "label": false,
+   "pConflict": 0.08
+  },
+  {
+   "id": "n03",
+   "label": false,
+   "pConflict": 0.08
+  },
+  {
+   "id": "n04",
+   "label": false,
+   "pConflict": 0.94
+  },
+  {
+   "id": "n05",
+   "label": false,
+   "pConflict": 0.75
+  },
+  {
+   "id": "n06",
+   "label": false,
+   "pConflict": 0.97
+  },
+  {
+   "id": "n07",
+   "label": false,
+   "pConflict": 0.03
+  },
+  {
+   "id": "n08",
+   "label": false,
+   "pConflict": 0.97
+  },
+  {
+   "id": "n09",
+   "label": false,
+   "pConflict": 0.08
+  },
+  {
+   "id": "n10",
+   "label": false,
+   "pConflict": 0.09
+  }
+ ]
+}

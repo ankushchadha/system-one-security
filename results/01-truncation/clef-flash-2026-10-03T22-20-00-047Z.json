@@ -1,0 +1,235 @@
+{
+ "model": "clef-flash",
+ "sweep": [
+  {
+   "charOffset": 0,
+   "p": 0.9711,
+   "billed": 2204
+  },
+  {
+   "charOffset": 987,
+   "p": 0.9623,
+   "billed": 2204
+  },
+  {
+   "charOffset": 1879,
+   "p": 0.9541,
+   "billed": 2204
+  },
+  {
+   "charOffset": 2888,
+   "p": 0.9418,
+   "billed": 2204
+  },
+  {
+   "charOffset": 3858,
+   "p": 0.9513,
+   "billed": 2204
+  },
+  {
+   "charOffset": 4960,
+   "p": 0.9184,
+   "billed": 2204
+  },
+  {
+   "charOffset": 5932,
+   "p": 0.8684,
+   "billed": 2204
+  },
+  {
+   "charOffset": 6942,
+   "p": 0.9256,
+   "billed": 2204
+  },
+  {
+   "charOffset": 7921,
+   "p": 0.945,
+   "billed": 2204
+  },
+  {
+   "charOffset": 8912,
+   "p": 0.0368,
+   "billed": 2204
+  },
+  {
+   "charOffset": 9963,
+   "p": 0.0368,
+   "billed": 2204
+  },
+  {
+   "charOffset": 10964,
+   "p": 0.0368,
+   "billed": 2204
+  }
+ ],
+ "wholeKbCheck": [
+  {
+   "id": "s01",
+   "cite": "01-console-setup.md",
+   "label": true,
+   "choice": "supports",
+   "p": 0.9676
+  },
+  {
+   "id": "s02",
+   "cite": "01-console-setup.md",
+   "label": true,
+   "choice": "supports",
+   "p": 0.966
+  },
+  {
+   "id": "s03",
+   "cite": "01-console-setup.md",
+   "label": true,
+   "choice": "supports",
+   "p": 0.9503
+  },
+  {
+   "id": "s04",
+   "cite": "02-scoreboard-link.md",
+   "label": true,
+   "choice": "supports",
+   "p": 0.9661
+  },
+  {
+   "id": "s05",
+   "cite": "02-scoreboard-link.md",
+   "label": true,
+   "choice": "supports",
+   "p": 0.9214
+  },
+  {
+   "id": "s06",
+   "cite": "03-troubleshooting.md",
+   "label": true,
+   "choice": "supports",
+   "p": 0.9505
+  },
+  {
+   "id": "s07",
+   "cite": "03-troubleshooting.md",
+   "label": true,
+   "choice": "supports",
+   "p": 0.9332
+  },
+  {
+   "id": "s08",
+   "cite": "03-troubleshooting.md",
+   "label": true,
+   "choice": "supports",
+   "p": 0.942
+  },
+  {
+   "id": "s09",
+   "cite": "03-troubleshooting.md",
+   "label": true,
+   "choice": "supports",
+   "p": 0.9448
+  },
+  {
+   "id": "s10",
+   "cite": "04-meet-day.md",
+   "label": true,
+   "choice": "says_nothing",
+   "p": 0.0258
+  },
+  {
+   "id": "s11",
+   "cite": "05-equipment-reference.md",
+   "label": true,
+   "choice": "says_nothing",
+   "p": 0.0158
+  },
+  {
+   "id": "s12",
+   "cite": "05-equipment-reference.md",
+   "label": true,
+   "choice": "says_nothing",
+   "p": 0.0065
+  },
+  {
+   "id": "u01",
+   "cite": "01-console-setup.md",
+   "label": false,
+   "choice": "contradicts",
+   "p": 0.0603
+  },
+  {
+   "id": "u02",
+   "cite": "01-console-setup.md",
+   "label": false,
+   "choice": "contradicts",
+   "p": 0.0702
+  },
+  {
+   "id": "u03",
+   "cite": "02-scoreboard-link.md",
+   "label": false,
+   "choice": "contradicts",
+   "p": 0.2353
+  },
+  {
+   "id": "u04",
+   "cite": "03-troubleshooting.md",
+   "label": false,
+   "choice": "contradicts",
+   "p": 0.0283
+  },
+  {
+   "id": "u05",
+   "cite": "03-troubleshooting.md",
+   "label": false,
+   "choice": "contradicts",
+   "p": 0.0343
+  },
+  {
+   "id": "u06",
+   "cite": "05-equipment-reference.md",
+   "label": false,
+   "choice": "contradicts",
+   "p": 0.0917
+  },
+  {
+   "id": "u07",
+   "cite": "05-equipment-reference.md",
+   "label": false,
+   "choice": "says_nothing",
+   "p": 0.0092
+  },
+  {
+   "id": "u08",
+   "cite": "01-console-setup.md",
+   "label": false,
+   "choice": "says_nothing",
+   "p": 0.0107
+  },
+  {
+   "id": "u09",
+   "cite": "02-scoreboard-link.md",
+   "label": false,
+   "choice": "says_nothing",
+   "p": 0.02
+  },
+  {
+   "id": "u10",
+   "cite": "04-meet-day.md",
+   "label": false,
+   "choice": "says_nothing",
+   "p": 0.0081
+  },
+  {
+   "id": "u11",
+   "cite": "03-troubleshooting.md",
+   "label": false,
+   "choice": "says_nothing",
+   "p": 0.0245
+  },
+  {
+   "id": "u12",
+   "cite": "05-equipment-reference.md",
+   "label": false,
+   "choice": "says_nothing",
+   "p": 0.011
+  }
+ ]
+}

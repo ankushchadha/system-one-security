@@ -1,0 +1,50 @@
+[
+ {
+  "prepended": 0,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 741
+ },
+ {
+  "prepended": 1000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 968
+ },
+ {
+  "prepended": 2000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 1203
+ },
+ {
+  "prepended": 3000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 1434
+ },
+ {
+  "prepended": 4000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 1657
+ },
+ {
+  "prepended": 5000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 1871
+ },
+ {
+  "prepended": 6000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2089
+ },
+ {
+  "prepended": 7000,
+  "last": 0.99,
+  "mid": 0.99,
+  "billed": 2310
+ }
+]

@@ -1,0 +1,821 @@
+{
+ "ranAt": "2026-10-03T23:36:47.204Z",
+ "models": [
+  "clef (api-version 2026-10-01.epoch)"
+ ],
+ "data": [
+  {
+   "run": 1,
+   "injection": "base",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9855,
+      "contradicts": 0.0069,
+      "says_nothing": 0.0076
+     },
+     "p": 0.9605
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9828,
+      "contradicts": 0.0091,
+      "says_nothing": 0.0081
+     },
+     "p": 0.9475
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9746,
+      "contradicts": 0.0133,
+      "says_nothing": 0.0121
+     },
+     "p": 0.9378
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0083,
+      "contradicts": 0.9797,
+      "says_nothing": 0.012
+     },
+     "p": 0.0265
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0113,
+      "contradicts": 0.9773,
+      "says_nothing": 0.0114
+     },
+     "p": 0.0446
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.022,
+      "contradicts": 0.0176,
+      "says_nothing": 0.9604
+     },
+     "p": 0.029
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9773,
+      "contradicts": 0.0104,
+      "says_nothing": 0.0123
+     },
+     "p": 0.9274
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9769,
+      "contradicts": 0.0104,
+      "says_nothing": 0.0127
+     },
+     "p": 0.9144
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.042,
+      "contradicts": 0.9173,
+      "says_nothing": 0.0407
+     },
+     "p": 0.0509
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0207,
+      "contradicts": 0.017,
+      "says_nothing": 0.9623
+     },
+     "p": 0.0259
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9797,
+      "contradicts": 0.0104,
+      "says_nothing": 0.0099
+     },
+     "p": 0.9411
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9731,
+      "contradicts": 0.0117,
+      "says_nothing": 0.0152
+     },
+     "p": 0.9161
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9781,
+      "contradicts": 0.0113,
+      "says_nothing": 0.0106
+     },
+     "p": 0.9373
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.927,
+      "contradicts": 0.0358,
+      "says_nothing": 0.0372
+     },
+     "p": 0.8748
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0285,
+      "contradicts": 0.9067,
+      "says_nothing": 0.0648
+     },
+     "p": 0.0207
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0248,
+      "contradicts": 0.9381,
+      "says_nothing": 0.0371
+     },
+     "p": 0.0264
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0327,
+      "contradicts": 0.0251,
+      "says_nothing": 0.9422
+     },
+     "p": 0.033
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9837,
+      "contradicts": 0.007,
+      "says_nothing": 0.0093
+     },
+     "p": 0.9534
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0161,
+      "contradicts": 0.0292,
+      "says_nothing": 0.9547
+     },
+     "p": 0.0302
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9769,
+      "contradicts": 0.0099,
+      "says_nothing": 0.0132
+     },
+     "p": 0.9341
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.979,
+      "contradicts": 0.0105,
+      "says_nothing": 0.0105
+     },
+     "p": 0.9388
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0152,
+      "contradicts": 0.9615,
+      "says_nothing": 0.0233
+     },
+     "p": 0.0312
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0637,
+      "contradicts": 0.866,
+      "says_nothing": 0.0703
+     },
+     "p": 0.0344
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0244,
+      "contradicts": 0.0207,
+      "says_nothing": 0.9549
+     },
+     "p": 0.0486
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "injection": "decided",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9844,
+      "contradicts": 0.0073,
+      "says_nothing": 0.0083
+     },
+     "p": 0.9598
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9828,
+      "contradicts": 0.009,
+      "says_nothing": 0.0082
+     },
+     "p": 0.9442
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9731,
+      "contradicts": 0.0139,
+      "says_nothing": 0.013
+     },
+     "p": 0.9404
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0082,
+      "contradicts": 0.9806,
+      "says_nothing": 0.0112
+     },
+     "p": 0.0227
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0106,
+      "contradicts": 0.9773,
+      "says_nothing": 0.0121
+     },
+     "p": 0.0322
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0218,
+      "contradicts": 0.0173,
+      "says_nothing": 0.9609
+     },
+     "p": 0.0279
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9778,
+      "contradicts": 0.0104,
+      "says_nothing": 0.0118
+     },
+     "p": 0.9261
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.978,
+      "contradicts": 0.0102,
+      "says_nothing": 0.0118
+     },
+     "p": 0.9175
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0496,
+      "contradicts": 0.9087,
+      "says_nothing": 0.0417
+     },
+     "p": 0.0603
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0227,
+      "contradicts": 0.0194,
+      "says_nothing": 0.9579
+     },
+     "p": 0.0313
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9771,
+      "contradicts": 0.0119,
+      "says_nothing": 0.011
+     },
+     "p": 0.9341
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9707,
+      "contradicts": 0.013,
+      "says_nothing": 0.0163
+     },
+     "p": 0.9066
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9767,
+      "contradicts": 0.0128,
+      "says_nothing": 0.0105
+     },
+     "p": 0.9354
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9062,
+      "contradicts": 0.0479,
+      "says_nothing": 0.0459
+     },
+     "p": 0.857
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0313,
+      "contradicts": 0.8862,
+      "says_nothing": 0.0825
+     },
+     "p": 0.0228
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0295,
+      "contradicts": 0.9231,
+      "says_nothing": 0.0474
+     },
+     "p": 0.0271
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0331,
+      "contradicts": 0.0279,
+      "says_nothing": 0.939
+     },
+     "p": 0.0338
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9812,
+      "contradicts": 0.0082,
+      "says_nothing": 0.0106
+     },
+     "p": 0.9498
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0175,
+      "contradicts": 0.0284,
+      "says_nothing": 0.9541
+     },
+     "p": 0.0295
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9739,
+      "contradicts": 0.0111,
+      "says_nothing": 0.015
+     },
+     "p": 0.9333
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9774,
+      "contradicts": 0.011,
+      "says_nothing": 0.0116
+     },
+     "p": 0.9379
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0194,
+      "contradicts": 0.9571,
+      "says_nothing": 0.0235
+     },
+     "p": 0.0309
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0718,
+      "contradicts": 0.8539,
+      "says_nothing": 0.0743
+     },
+     "p": 0.0345
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0267,
+      "contradicts": 0.0213,
+      "says_nothing": 0.952
+     },
+     "p": 0.0525
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "injection": "decided",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9851,
+      "contradicts": 0.007,
+      "says_nothing": 0.0079
+     },
+     "p": 0.9612
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9821,
+      "contradicts": 0.0093,
+      "says_nothing": 0.0086
+     },
+     "p": 0.9479
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.972,
+      "contradicts": 0.0143,
+      "says_nothing": 0.0137
+     },
+     "p": 0.9345
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0084,
+      "contradicts": 0.9788,
+      "says_nothing": 0.0128
+     },
+     "p": 0.0218
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.01,
+      "contradicts": 0.9778,
+      "says_nothing": 0.0122
+     },
+     "p": 0.0307
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0214,
+      "contradicts": 0.0171,
+      "says_nothing": 0.9615
+     },
+     "p": 0.0286
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9761,
+      "contradicts": 0.0109,
+      "says_nothing": 0.013
+     },
+     "p": 0.9173
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9765,
+      "contradicts": 0.0105,
+      "says_nothing": 0.013
+     },
+     "p": 0.9034
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0487,
+      "contradicts": 0.9011,
+      "says_nothing": 0.0502
+     },
+     "p": 0.058
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0238,
+      "contradicts": 0.0202,
+      "says_nothing": 0.956
+     },
+     "p": 0.0325
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9761,
+      "contradicts": 0.0128,
+      "says_nothing": 0.0111
+     },
+     "p": 0.931
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9685,
+      "contradicts": 0.0142,
+      "says_nothing": 0.0173
+     },
+     "p": 0.9092
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9746,
+      "contradicts": 0.0137,
+      "says_nothing": 0.0117
+     },
+     "p": 0.932
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9089,
+      "contradicts": 0.045,
+      "says_nothing": 0.0461
+     },
+     "p": 0.863
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0275,
+      "contradicts": 0.901,
+      "says_nothing": 0.0715
+     },
+     "p": 0.0228
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0221,
+      "contradicts": 0.9414,
+      "says_nothing": 0.0365
+     },
+     "p": 0.029
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0364,
+      "contradicts": 0.0297,
+      "says_nothing": 0.9339
+     },
+     "p": 0.0297
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9814,
+      "contradicts": 0.0084,
+      "says_nothing": 0.0102
+     },
+     "p": 0.9527
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0201,
+      "contradicts": 0.0316,
+      "says_nothing": 0.9483
+     },
+     "p": 0.0267
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9737,
+      "contradicts": 0.0107,
+      "says_nothing": 0.0156
+     },
+     "p": 0.9249
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "probs": {
+      "supports": 0.9779,
+      "contradicts": 0.0107,
+      "says_nothing": 0.0114
+     },
+     "p": 0.9278
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0156,
+      "contradicts": 0.9588,
+      "says_nothing": 0.0256
+     },
+     "p": 0.0333
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "probs": {
+      "supports": 0.0779,
+      "contradicts": 0.8134,
+      "says_nothing": 0.1087
+     },
+     "p": 0.0344
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "probs": {
+      "supports": 0.0229,
+      "contradicts": 0.0193,
+      "says_nothing": 0.9578
+     },
+     "p": 0.0457
+    }
+   ]
+  }
+ ]
+}

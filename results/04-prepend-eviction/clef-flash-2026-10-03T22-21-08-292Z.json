@@ -1,0 +1,116 @@
+[
+ {
+  "prepended": 0,
+  "last": 0.9663,
+  "mid": 0.978,
+  "billed": 683
+ },
+ {
+  "prepended": 2000,
+  "last": 0.9578,
+  "mid": 0.9727,
+  "billed": 1089
+ },
+ {
+  "prepended": 4000,
+  "last": 0.9576,
+  "mid": 0.9729,
+  "billed": 1494
+ },
+ {
+  "prepended": 6000,
+  "last": 0.9564,
+  "mid": 0.9723,
+  "billed": 1899
+ },
+ {
+  "prepended": 6500,
+  "last": 0.9575,
+  "mid": 0.9725,
+  "billed": 2001
+ },
+ {
+  "prepended": 6750,
+  "last": 0.9572,
+  "mid": 0.9728,
+  "billed": 2051
+ },
+ {
+  "prepended": 7000,
+  "last": 0.9565,
+  "mid": 0.9729,
+  "billed": 2103
+ },
+ {
+  "prepended": 7250,
+  "last": 0.9566,
+  "mid": 0.9728,
+  "billed": 2153
+ },
+ {
+  "prepended": 7500,
+  "last": 0.9553,
+  "mid": 0.9728,
+  "billed": 2203
+ },
+ {
+  "prepended": 7750,
+  "last": 0.9557,
+  "mid": 0.9736,
+  "billed": 2254
+ },
+ {
+  "prepended": 8000,
+  "last": 0.9746,
+  "mid": 0.9853,
+  "billed": 2289
+ },
+ {
+  "prepended": 8250,
+  "last": 0.9562,
+  "mid": 0.973,
+  "billed": 2289
+ },
+ {
+  "prepended": 8500,
+  "last": 0.9561,
+  "mid": 0.9724,
+  "billed": 2289
+ },
+ {
+  "prepended": 8750,
+  "last": 0.9535,
+  "mid": 0.9731,
+  "billed": 2289
+ },
+ {
+  "prepended": 9000,
+  "last": 0.9779,
+  "mid": 0.0091,
+  "billed": 2289
+ },
+ {
+  "prepended": 9250,
+  "last": 0.9587,
+  "mid": 0.0071,
+  "billed": 2289
+ },
+ {
+  "prepended": 9500,
+  "last": 0.9549,
+  "mid": 0.0608,
+  "billed": 2289
+ },
+ {
+  "prepended": 9750,
+  "last": 0.2437,
+  "mid": 0.1935,
+  "billed": 2289
+ },
+ {
+  "prepended": 10000,
+  "last": 0.3352,
+  "mid": 0.3471,
+  "billed": 2289
+ }
+]

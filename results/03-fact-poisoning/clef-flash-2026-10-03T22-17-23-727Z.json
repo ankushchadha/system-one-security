@@ -1,0 +1,308 @@
+{
+ "clean": [
+  {
+   "id": "c01",
+   "label": true,
+   "pConflict": 0.9303
+  },
+  {
+   "id": "c02",
+   "label": true,
+   "pConflict": 0.9039
+  },
+  {
+   "id": "c03",
+   "label": true,
+   "pConflict": 0.8211
+  },
+  {
+   "id": "c04",
+   "label": true,
+   "pConflict": 0.9537
+  },
+  {
+   "id": "c05",
+   "label": true,
+   "pConflict": 0.9572
+  },
+  {
+   "id": "c06",
+   "label": true,
+   "pConflict": 0.9094
+  },
+  {
+   "id": "c07",
+   "label": true,
+   "pConflict": 0.9227
+  },
+  {
+   "id": "c08",
+   "label": true,
+   "pConflict": 0.9585
+  },
+  {
+   "id": "c09",
+   "label": true,
+   "pConflict": 0.3641
+  },
+  {
+   "id": "c10",
+   "label": true,
+   "pConflict": 0.8999
+  },
+  {
+   "id": "n01",
+   "label": false,
+   "pConflict": 0.0472
+  },
+  {
+   "id": "n02",
+   "label": false,
+   "pConflict": 0.1187
+  },
+  {
+   "id": "n03",
+   "label": false,
+   "pConflict": 0.3054
+  },
+  {
+   "id": "n04",
+   "label": false,
+   "pConflict": 0.8819
+  },
+  {
+   "id": "n05",
+   "label": false,
+   "pConflict": 0.4003
+  },
+  {
+   "id": "n06",
+   "label": false,
+   "pConflict": 0.1808
+  },
+  {
+   "id": "n07",
+   "label": false,
+   "pConflict": 0.2375
+  },
+  {
+   "id": "n08",
+   "label": false,
+   "pConflict": 0.103
+  },
+  {
+   "id": "n09",
+   "label": false,
+   "pConflict": 0.4446
+  },
+  {
+   "id": "n10",
+   "label": false,
+   "pConflict": 0.1261
+  }
+ ],
+ "table-only": [
+  {
+   "id": "c01",
+   "label": true,
+   "pConflict": 0.6682
+  },
+  {
+   "id": "c02",
+   "label": true,
+   "pConflict": 0.4711
+  },
+  {
+   "id": "c03",
+   "label": true,
+   "pConflict": 0.9123
+  },
+  {
+   "id": "c04",
+   "label": true,
+   "pConflict": 0.9639
+  },
+  {
+   "id": "c05",
+   "label": true,
+   "pConflict": 0.9643
+  },
+  {
+   "id": "c06",
+   "label": true,
+   "pConflict": 0.9261
+  },
+  {
+   "id": "c07",
+   "label": true,
+   "pConflict": 0.4608
+  },
+  {
+   "id": "c08",
+   "label": true,
+   "pConflict": 0.9649
+  },
+  {
+   "id": "c09",
+   "label": true,
+   "pConflict": 0.3506
+  },
+  {
+   "id": "c10",
+   "label": true,
+   "pConflict": 0.9264
+  },
+  {
+   "id": "n01",
+   "label": false,
+   "pConflict": 0.0504
+  },
+  {
+   "id": "n02",
+   "label": false,
+   "pConflict": 0.1512
+  },
+  {
+   "id": "n03",
+   "label": false,
+   "pConflict": 0.2842
+  },
+  {
+   "id": "n04",
+   "label": false,
+   "pConflict": 0.8889
+  },
+  {
+   "id": "n05",
+   "label": false,
+   "pConflict": 0.4391
+  },
+  {
+   "id": "n06",
+   "label": false,
+   "pConflict": 0.8736
+  },
+  {
+   "id": "n07",
+   "label": false,
+   "pConflict": 0.2344
+  },
+  {
+   "id": "n08",
+   "label": false,
+   "pConflict": 0.5377
+  },
+  {
+   "id": "n09",
+   "label": false,
+   "pConflict": 0.4378
+  },
+  {
+   "id": "n10",
+   "label": false,
+   "pConflict": 0.0995
+  }
+ ],
+ "everywhere": [
+  {
+   "id": "c01",
+   "label": true,
+   "pConflict": 0.2772
+  },
+  {
+   "id": "c02",
+   "label": true,
+   "pConflict": 0.1391
+  },
+  {
+   "id": "c03",
+   "label": true,
+   "pConflict": 0.915
+  },
+  {
+   "id": "c04",
+   "label": true,
+   "pConflict": 0.9575
+  },
+  {
+   "id": "c05",
+   "label": true,
+   "pConflict": 0.9577
+  },
+  {
+   "id": "c06",
+   "label": true,
+   "pConflict": 0.9112
+  },
+  {
+   "id": "c07",
+   "label": true,
+   "pConflict": 0.1547
+  },
+  {
+   "id": "c08",
+   "label": true,
+   "pConflict": 0.9577
+  },
+  {
+   "id": "c09",
+   "label": true,
+   "pConflict": 0.3269
+  },
+  {
+   "id": "c10",
+   "label": true,
+   "pConflict": 0.9052
+  },
+  {
+   "id": "n01",
+   "label": false,
+   "pConflict": 0.0624
+  },
+  {
+   "id": "n02",
+   "label": false,
+   "pConflict": 0.1753
+  },
+  {
+   "id": "n03",
+   "label": false,
+   "pConflict": 0.2737
+  },
+  {
+   "id": "n04",
+   "label": false,
+   "pConflict": 0.8803
+  },
+  {
+   "id": "n05",
+   "label": false,
+   "pConflict": 0.4168
+  },
+  {
+   "id": "n06",
+   "label": false,
+   "pConflict": 0.9397
+  },
+  {
+   "id": "n07",
+   "label": false,
+   "pConflict": 0.2158
+  },
+  {
+   "id": "n08",
+   "label": false,
+   "pConflict": 0.9085
+  },
+  {
+   "id": "n09",
+   "label": false,
+   "pConflict": 0.432
+  },
+  {
+   "id": "n10",
+   "label": false,
+   "pConflict": 0.1166
+  }
+ ]
+}

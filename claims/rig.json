@@ -1,0 +1,25 @@
+{
+  "note": "Rig check against 00-rig-parameters.md. label true = a present-tense claim about this rig that the rig file contradicts. Written before any model call.",
+  "claims": [
+    {"id": "c01", "label": true, "kind": "conflict", "claim": "This pool times 10 lanes."},
+    {"id": "c02", "label": true, "kind": "conflict", "claim": "Races here are swum in 25 yard short course."},
+    {"id": "c03", "label": true, "kind": "conflict", "claim": "The console on this rig is the Serial variant."},
+    {"id": "c04", "label": true, "kind": "conflict", "claim": "The setup laptop runs Tempo Swim v3.1.0."},
+    {"id": "c05", "label": true, "kind": "conflict", "claim": "BoardLink reads the timer on COM2."},
+    {"id": "c06", "label": true, "kind": "conflict", "claim": "The scoreboard cable is plugged into the RS-485 outputs."},
+    {"id": "c07", "label": true, "kind": "conflict", "claim": "Turn-end pads are wired at this pool."},
+    {"id": "c08", "label": true, "kind": "conflict", "claim": "The results laptop runs MeetDesk 5.0."},
+    {"id": "c09", "label": true, "kind": "conflict", "claim": "Names reach the board live over a cable."},
+    {"id": "c10", "label": true, "kind": "conflict", "claim": "The starter plugs into its own jack on the console's back panel."},
+    {"id": "n01", "label": false, "kind": "conditional", "claim": "If turn-end pads were wired, races could be timed at both ends."},
+    {"id": "n02", "label": false, "kind": "plan", "claim": "To get live names, the club plans to wire the RS-485 outputs."},
+    {"id": "n03", "label": false, "kind": "kb-meta", "claim": "The rig file marks every value as confirmed."},
+    {"id": "n04", "label": false, "kind": "general", "claim": "An H8-10 harness serves 10 lanes."},
+    {"id": "n05", "label": false, "kind": "general", "claim": "Serial-variant consoles have RS-485 scoreboard outputs only."},
+    {"id": "n06", "label": false, "kind": "agrees", "claim": "This pool has 8 lanes, timed at the start end only."},
+    {"id": "n07", "label": false, "kind": "agrees", "claim": "BoardLink reads the timer on COM5."},
+    {"id": "n08", "label": false, "kind": "agrees", "claim": "Courses here are 25 m."},
+    {"id": "n09", "label": false, "kind": "conditional", "claim": "After a reboot, the results laptop's COM number may change."},
+    {"id": "n10", "label": false, "kind": "historical", "claim": "Before its last update, the console ran an earlier Tempo Swim version."}
+  ]
+}
