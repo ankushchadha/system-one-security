@@ -8,7 +8,7 @@ instead of generating text.
 ## What we found (one synthetic KB, hosted APIs, 2026-10-03)
 
 - **The models believe the state.** Edit a fact in the state and the verdict follows it (03).
-- **Hosted Clef ignores everything after about 2,048 tokens of state**, with no sign in the response. We found this independently; checking prior work showed it had already been reported publicly a day or two earlier (see `docs/prior-work.md`). Claims whose evidence sits past the cut fail, and text added at the start pushes facts at the end out of view (01, 04).
+- **Hosted Clef ignored everything after about 2,048 tokens of state** when tested on 2026-10-03 to 05, with no sign in the response. Cloudflare confirmed it was a bug and fixed it; a rerun on 2026-10-08 shows it gone. We found it independently; it had already been reported publicly a day or two earlier (see `docs/prior-work.md`). Claims whose evidence sat past the cut failed, and text added at the start pushed facts at the end out of view (01, 04, historical).
 - **Instruction-style injections mostly failed.** No wrong claim passed on the choice answer in any condition; on the yes/no answer, two injections let one wrong claim through in every run. On Jev, a "labels are swapped" note at the end of the state pushed nearly every correct claim below 0.5 on the yes/no answer (02).
 
 Details, scope and n for every claim: [`docs/CLAIMS.md`](docs/CLAIMS.md).
@@ -38,6 +38,7 @@ whose full history will be published with the withheld material.
 | 03 | Do verdicts follow edited facts in the state? Does repeating a fact protect it? | `experiments/03-fact-poisoning.ts` |
 | 04 | Under a state cap, can prepended text push facts out of view? | `experiments/04-prepend-eviction.ts` |
 | 05 | Can one extra question in the same request detect an injection? | `experiments/05-tripwire.ts` |
+| 09 | After the fix, does the model use a much longer state? | `experiments/09-long-state.ts` |
 
 ## Run
 
@@ -65,9 +66,10 @@ backend: under $0.03 on Jev, inside one day's free tier on Clef-flash.
 ## Notes
 
 - The Workers AI request includes `model`, which the input schema lists as required.
-- Hosted Clef truncates state at 2,048 tokens (reported before us; see
-  `docs/prior-work.md`). Every KB file here is under that, so experiments 02,
-  03 and 05 are not affected by it; 01 and 04 measure it.
+- Until a fix confirmed by Cloudflare (rerun 2026-10-08), hosted Clef truncated
+  state at 2,048 tokens (reported before us; see `docs/prior-work.md`). Every
+  KB file here is under that, so experiments 02, 03 and 05 were not affected by
+  it; 01 and 04 measured it, and 09 checks longer states after the fix.
 - Hosted APIs include whatever wrapping the vendor applies. Results compare
   products as served, not bare models.
 

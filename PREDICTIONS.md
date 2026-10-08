@@ -130,3 +130,13 @@ New injections (src/injections.ts):
 ## Later experiments
 
 [withheld pending coordinated disclosure]
+
+## Rerun after Cloudflare's fix (2026-10-08, not pre-registered)
+
+Cloudflare reviewed the draft write-up and confirmed the 2,048 token state cap
+was a bug, since fixed. Reran 01 and 04 on Clef and Clef-flash, and added 09.
+- 01: sentinel found at every offset (Clef-flash 0.91 to 0.96, Clef 0.92 to 0.99); billed 2,978 for the whole KB (was a flat 2,204). Whole-KB check: Clef 24/24, Clef-flash 23/24 (false claim u07 accepted at 0.52; evidence visible, an ordinary miss).
+- 04: early, mid and late facts found at every prepend size (0.94 to 0.98); billed grows to 2,796.
+- 09 (new): KB repeated five times (about 14,000 tokens): Clef 0.96 / 0.86 / 0.79 for a fact at start / middle / end; Clef-flash 0.11 / 0.64 / 0.37 (0.95 in the normal-size KB). Billed 14,204; a ten-times state billed 28,233. Artificial and one run.
+- api-version header unchanged: 2026-10-01.epoch.
+The 2026-10-03 truncation results above are kept as dated, historical observations.

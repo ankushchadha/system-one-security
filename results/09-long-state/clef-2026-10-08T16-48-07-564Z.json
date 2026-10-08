@@ -1,0 +1,29 @@
+{
+ "ranAt": "2026-10-08T16:48:07.564Z",
+ "models": [
+  "clef-flash (api-version 2026-10-01.epoch)",
+  "clef (api-version 2026-10-01.epoch)"
+ ],
+ "data": [
+  {
+   "variant": "start",
+   "p": 0.9625,
+   "billed": 14204
+  },
+  {
+   "variant": "middle",
+   "p": 0.8616,
+   "billed": 14204
+  },
+  {
+   "variant": "end",
+   "p": 0.7868,
+   "billed": 14203
+  },
+  {
+   "variant": "end, single KB",
+   "p": 0.9732,
+   "billed": 2979
+  }
+ ]
+}

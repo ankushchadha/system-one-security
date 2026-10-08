@@ -1,0 +1,128 @@
+{
+ "ranAt": "2026-10-08T16:45:49.187Z",
+ "models": [
+  "clef-flash (api-version 2026-10-01.epoch)",
+  "clef (api-version 2026-10-01.epoch)"
+ ],
+ "data": [
+  {
+   "prepended": 0,
+   "early": 0.9882,
+   "mid": 0.986,
+   "late": 0.9809,
+   "billed": 770
+  },
+  {
+   "prepended": 2000,
+   "early": 0.9814,
+   "mid": 0.9833,
+   "late": 0.9742,
+   "billed": 1176
+  },
+  {
+   "prepended": 4000,
+   "early": 0.9797,
+   "mid": 0.9807,
+   "late": 0.9683,
+   "billed": 1581
+  },
+  {
+   "prepended": 6000,
+   "early": 0.978,
+   "mid": 0.98,
+   "late": 0.9673,
+   "billed": 1986
+  },
+  {
+   "prepended": 7000,
+   "early": 0.9773,
+   "mid": 0.9787,
+   "late": 0.9623,
+   "billed": 2190
+  },
+  {
+   "prepended": 7250,
+   "early": 0.9771,
+   "mid": 0.9786,
+   "late": 0.9665,
+   "billed": 2240
+  },
+  {
+   "prepended": 7500,
+   "early": 0.9794,
+   "mid": 0.9798,
+   "late": 0.9683,
+   "billed": 2290
+  },
+  {
+   "prepended": 7750,
+   "early": 0.9745,
+   "mid": 0.9769,
+   "late": 0.9566,
+   "billed": 2341
+  },
+  {
+   "prepended": 8000,
+   "early": 0.9765,
+   "mid": 0.9793,
+   "late": 0.9708,
+   "billed": 2391
+  },
+  {
+   "prepended": 8250,
+   "early": 0.9781,
+   "mid": 0.9783,
+   "late": 0.9654,
+   "billed": 2442
+  },
+  {
+   "prepended": 8500,
+   "early": 0.9778,
+   "mid": 0.9787,
+   "late": 0.9659,
+   "billed": 2493
+  },
+  {
+   "prepended": 8750,
+   "early": 0.9785,
+   "mid": 0.9797,
+   "late": 0.9669,
+   "billed": 2544
+  },
+  {
+   "prepended": 9000,
+   "early": 0.977,
+   "mid": 0.9774,
+   "late": 0.9545,
+   "billed": 2595
+  },
+  {
+   "prepended": 9250,
+   "early": 0.9795,
+   "mid": 0.9803,
+   "late": 0.9682,
+   "billed": 2644
+  },
+  {
+   "prepended": 9500,
+   "early": 0.9792,
+   "mid": 0.9799,
+   "late": 0.9643,
+   "billed": 2695
+  },
+  {
+   "prepended": 9750,
+   "early": 0.9765,
+   "mid": 0.9791,
+   "late": 0.9647,
+   "billed": 2746
+  },
+  {
+   "prepended": 10000,
+   "early": 0.9756,
+   "mid": 0.9783,
+   "late": 0.9614,
+   "billed": 2796
+  }
+ ]
+}

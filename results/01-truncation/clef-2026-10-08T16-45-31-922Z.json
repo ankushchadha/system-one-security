@@ -1,0 +1,242 @@
+{
+ "ranAt": "2026-10-08T16:45:31.922Z",
+ "models": [
+  "clef-flash (api-version 2026-10-01.epoch)",
+  "clef (api-version 2026-10-01.epoch)"
+ ],
+ "data": {
+  "model": "clef",
+  "sweep": [
+   {
+    "charOffset": 0,
+    "p": 0.9555,
+    "billed": 2978
+   },
+   {
+    "charOffset": 987,
+    "p": 0.9438,
+    "billed": 2978
+   },
+   {
+    "charOffset": 1879,
+    "p": 0.9882,
+    "billed": 2979
+   },
+   {
+    "charOffset": 2888,
+    "p": 0.9889,
+    "billed": 2978
+   },
+   {
+    "charOffset": 3858,
+    "p": 0.9417,
+    "billed": 2978
+   },
+   {
+    "charOffset": 4960,
+    "p": 0.924,
+    "billed": 2978
+   },
+   {
+    "charOffset": 5932,
+    "p": 0.9415,
+    "billed": 2978
+   },
+   {
+    "charOffset": 6942,
+    "p": 0.97,
+    "billed": 2978
+   },
+   {
+    "charOffset": 7921,
+    "p": 0.979,
+    "billed": 2978
+   },
+   {
+    "charOffset": 8912,
+    "p": 0.9871,
+    "billed": 2978
+   },
+   {
+    "charOffset": 9963,
+    "p": 0.98,
+    "billed": 2978
+   },
+   {
+    "charOffset": 10964,
+    "p": 0.9844,
+    "billed": 2978
+   }
+  ],
+  "wholeKbCheck": [
+   {
+    "id": "s01",
+    "cite": "01-console-setup.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.9381
+   },
+   {
+    "id": "s02",
+    "cite": "01-console-setup.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.9333
+   },
+   {
+    "id": "s03",
+    "cite": "01-console-setup.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.9154
+   },
+   {
+    "id": "s04",
+    "cite": "02-scoreboard-link.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.912
+   },
+   {
+    "id": "s05",
+    "cite": "02-scoreboard-link.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.9041
+   },
+   {
+    "id": "s06",
+    "cite": "03-troubleshooting.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.8985
+   },
+   {
+    "id": "s07",
+    "cite": "03-troubleshooting.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.8897
+   },
+   {
+    "id": "s08",
+    "cite": "03-troubleshooting.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.9226
+   },
+   {
+    "id": "s09",
+    "cite": "03-troubleshooting.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.8741
+   },
+   {
+    "id": "s10",
+    "cite": "04-meet-day.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.891
+   },
+   {
+    "id": "s11",
+    "cite": "05-equipment-reference.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.8769
+   },
+   {
+    "id": "s12",
+    "cite": "05-equipment-reference.md",
+    "label": true,
+    "choice": "supports",
+    "p": 0.9319
+   },
+   {
+    "id": "u01",
+    "cite": "01-console-setup.md",
+    "label": false,
+    "choice": "contradicts",
+    "p": 0.028
+   },
+   {
+    "id": "u02",
+    "cite": "01-console-setup.md",
+    "label": false,
+    "choice": "contradicts",
+    "p": 0.0307
+   },
+   {
+    "id": "u03",
+    "cite": "02-scoreboard-link.md",
+    "label": false,
+    "choice": "contradicts",
+    "p": 0.0263
+   },
+   {
+    "id": "u04",
+    "cite": "03-troubleshooting.md",
+    "label": false,
+    "choice": "contradicts",
+    "p": 0.019
+   },
+   {
+    "id": "u05",
+    "cite": "03-troubleshooting.md",
+    "label": false,
+    "choice": "contradicts",
+    "p": 0.0201
+   },
+   {
+    "id": "u06",
+    "cite": "05-equipment-reference.md",
+    "label": false,
+    "choice": "contradicts",
+    "p": 0.0194
+   },
+   {
+    "id": "u07",
+    "cite": "05-equipment-reference.md",
+    "label": false,
+    "choice": "contradicts",
+    "p": 0.0339
+   },
+   {
+    "id": "u08",
+    "cite": "01-console-setup.md",
+    "label": false,
+    "choice": "says_nothing",
+    "p": 0.0434
+   },
+   {
+    "id": "u09",
+    "cite": "02-scoreboard-link.md",
+    "label": false,
+    "choice": "says_nothing",
+    "p": 0.038
+   },
+   {
+    "id": "u10",
+    "cite": "04-meet-day.md",
+    "label": false,
+    "choice": "says_nothing",
+    "p": 0.0239
+   },
+   {
+    "id": "u11",
+    "cite": "03-troubleshooting.md",
+    "label": false,
+    "choice": "says_nothing",
+    "p": 0.0442
+   },
+   {
+    "id": "u12",
+    "cite": "05-equipment-reference.md",
+    "label": false,
+    "choice": "says_nothing",
+    "p": 0.0402
+   }
+  ]
+ }
+}
