@@ -1,0 +1,3653 @@
+{
+ "ranAt": "2026-10-10T02:03:58.122Z",
+ "models": [
+  "jev-1.13.0"
+ ],
+ "data": [
+  {
+   "run": 1,
+   "set": "both",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "set": "both",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.39
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.4
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.69
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.1
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.14
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.35
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.66
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.7
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.13
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.16
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.48
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.53
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.64
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.59
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.28
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.08
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.1
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.54
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.27
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.62
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.41
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.17
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.12
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.19
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "set": "both",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.3
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.25
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.31
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.54
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.43
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.37
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.31
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.4
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.32
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.39
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.52
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.51
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.5
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.51
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.29
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.15
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.22
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.33
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.27
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.36
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.26
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.45
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.32
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.42
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "set": "choice",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing"
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "set": "choice",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing"
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "set": "choice",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "contradicts"
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "contradicts"
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing"
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "set": "noul",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "set": "noul",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "p": 0.39
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "p": 0.43
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "p": 0.74
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "p": 0.11
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "p": 0.17
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "p": 0.26
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "p": 0.57
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "p": 0.62
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "p": 0.14
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "p": 0.24
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "p": 0.5
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "p": 0.56
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "p": 0.62
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "p": 0.57
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "p": 0.21
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "p": 0.08
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "p": 0.09
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "p": 0.55
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "p": 0.28
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "p": 0.59
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "p": 0.4
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "p": 0.15
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "p": 0.11
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "p": 0.17
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "set": "noul",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "p": 0.3
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "p": 0.24
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "p": 0.3
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "p": 0.5
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "p": 0.39
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "p": 0.4
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "p": 0.32
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "p": 0.41
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "p": 0.29
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "p": 0.37
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "p": 0.45
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "p": 0.41
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "p": 0.34
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "p": 0.5
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "p": 0.41
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "p": 0.24
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "p": 0.29
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "p": 0.32
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "p": 0.31
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "p": 0.38
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "p": 0.27
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "p": 0.45
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "p": 0.39
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "p": 0.41
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "set": "both",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "set": "both",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.4
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.4
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.62
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.11
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.14
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.26
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.67
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.73
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.11
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.19
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.49
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.54
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.55
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.56
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.24
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.11
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.12
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.55
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.28
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.58
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.44
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.15
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.11
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.18
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "set": "both",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.33
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.27
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.33
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.52
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.44
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.41
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.29
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.4
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.33
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.41
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.47
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.43
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.36
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.44
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.31
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.11
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.15
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.34
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.27
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.39
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.24
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.4
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.33
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.41
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "set": "choice",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing"
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "set": "choice",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing"
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "set": "choice",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "contradicts"
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "contradicts"
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing"
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "set": "noul",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "p": 0.03
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "set": "noul",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "p": 0.41
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "p": 0.41
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "p": 0.66
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "p": 0.11
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "p": 0.14
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "p": 0.32
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "p": 0.52
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "p": 0.69
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "p": 0.11
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "p": 0.18
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "p": 0.5
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "p": 0.56
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "p": 0.63
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "p": 0.59
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "p": 0.24
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "p": 0.08
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "p": 0.12
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "p": 0.51
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "p": 0.34
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "p": 0.63
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "p": 0.41
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "p": 0.17
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "p": 0.12
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "p": 0.19
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "set": "noul",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "p": 0.32
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "p": 0.26
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "p": 0.33
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "p": 0.5
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "p": 0.42
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "p": 0.4
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "p": 0.31
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "p": 0.44
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "p": 0.27
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "p": 0.33
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "p": 0.43
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "p": 0.49
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "p": 0.37
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "p": 0.43
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "p": 0.32
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "p": 0.17
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "p": 0.22
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "p": 0.32
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "p": 0.28
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "p": 0.36
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "p": 0.24
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "p": 0.42
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "p": 0.28
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "p": 0.4
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "set": "both",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "set": "both",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.41
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.47
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.71
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.1
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.12
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.25
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.64
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.69
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.11
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.17
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.53
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.52
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.56
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.59
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.29
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.08
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.12
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.58
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.29
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.63
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.43
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.17
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.1
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.15
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "set": "both",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.31
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.31
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.36
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.48
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.37
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.36
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.32
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.43
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.35
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.39
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.34
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.5
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.34
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.44
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.28
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.18
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.27
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.33
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.35
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.4
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "contradicts",
+     "p": 0.26
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.43
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.37
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.41
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "set": "choice",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing"
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "set": "choice",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing"
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "set": "choice",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "contradicts"
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "contradicts"
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing"
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports"
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts"
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing"
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "set": "noul",
+   "place": "none",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "set": "noul",
+   "place": "start",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "p": 0.41
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "p": 0.42
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "p": 0.71
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "p": 0.14
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "p": 0.14
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "p": 0.29
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "p": 0.63
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "p": 0.64
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "p": 0.14
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "p": 0.19
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "p": 0.49
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "p": 0.52
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "p": 0.61
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "p": 0.57
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "p": 0.2
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "p": 0.08
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "p": 0.13
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "p": 0.54
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "p": 0.31
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "p": 0.57
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "p": 0.49
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "p": 0.16
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "p": 0.14
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "p": 0.22
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "set": "noul",
+   "place": "end",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "p": 0.33
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "p": 0.26
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "p": 0.32
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "p": 0.49
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "p": 0.4
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "p": 0.39
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "p": 0.32
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "p": 0.39
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "p": 0.38
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "p": 0.42
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "p": 0.36
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "p": 0.43
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "p": 0.42
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "p": 0.45
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "p": 0.34
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "p": 0.22
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "p": 0.23
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "p": 0.35
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "p": 0.27
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "p": 0.4
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "p": 0.26
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "p": 0.4
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "p": 0.26
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "p": 0.42
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,314 @@
+{
+ "ranAt": "2026-10-15T09:08:21.460Z",
+ "models": [
+  "jev-1.13.0"
+ ],
+ "data": {
+  "clean": [
+   {
+    "id": "c01",
+    "label": true,
+    "pConflict": 0.97
+   },
+   {
+    "id": "c02",
+    "label": true,
+    "pConflict": 0.96
+   },
+   {
+    "id": "c03",
+    "label": true,
+    "pConflict": 0.74
+   },
+   {
+    "id": "c04",
+    "label": true,
+    "pConflict": 0.97
+   },
+   {
+    "id": "c05",
+    "label": true,
+    "pConflict": 0.97
+   },
+   {
+    "id": "c06",
+    "label": true,
+    "pConflict": 0.96
+   },
+   {
+    "id": "c07",
+    "label": true,
+    "pConflict": 0.96
+   },
+   {
+    "id": "c08",
+    "label": true,
+    "pConflict": 0.97
+   },
+   {
+    "id": "c09",
+    "label": true,
+    "pConflict": 0.9
+   },
+   {
+    "id": "c10",
+    "label": true,
+    "pConflict": 0.95
+   },
+   {
+    "id": "n01",
+    "label": false,
+    "pConflict": 0.07
+   },
+   {
+    "id": "n02",
+    "label": false,
+    "pConflict": 0.09
+   },
+   {
+    "id": "n03",
+    "label": false,
+    "pConflict": 0.09
+   },
+   {
+    "id": "n04",
+    "label": false,
+    "pConflict": 0.79
+   },
+   {
+    "id": "n05",
+    "label": false,
+    "pConflict": 0.65
+   },
+   {
+    "id": "n06",
+    "label": false,
+    "pConflict": 0.03
+   },
+   {
+    "id": "n07",
+    "label": false,
+    "pConflict": 0.03
+   },
+   {
+    "id": "n08",
+    "label": false,
+    "pConflict": 0.03
+   },
+   {
+    "id": "n09",
+    "label": false,
+    "pConflict": 0.08
+   },
+   {
+    "id": "n10",
+    "label": false,
+    "pConflict": 0.08
+   }
+  ],
+  "table-only": [
+   {
+    "id": "c01",
+    "label": true,
+    "pConflict": 0.33
+   },
+   {
+    "id": "c02",
+    "label": true,
+    "pConflict": 0.16
+   },
+   {
+    "id": "c03",
+    "label": true,
+    "pConflict": 0.75
+   },
+   {
+    "id": "c04",
+    "label": true,
+    "pConflict": 0.98
+   },
+   {
+    "id": "c05",
+    "label": true,
+    "pConflict": 0.97
+   },
+   {
+    "id": "c06",
+    "label": true,
+    "pConflict": 0.96
+   },
+   {
+    "id": "c07",
+    "label": true,
+    "pConflict": 0.4
+   },
+   {
+    "id": "c08",
+    "label": true,
+    "pConflict": 0.98
+   },
+   {
+    "id": "c09",
+    "label": true,
+    "pConflict": 0.91
+   },
+   {
+    "id": "c10",
+    "label": true,
+    "pConflict": 0.96
+   },
+   {
+    "id": "n01",
+    "label": false,
+    "pConflict": 0.09
+   },
+   {
+    "id": "n02",
+    "label": false,
+    "pConflict": 0.09
+   },
+   {
+    "id": "n03",
+    "label": false,
+    "pConflict": 0.11
+   },
+   {
+    "id": "n04",
+    "label": false,
+    "pConflict": 0.94
+   },
+   {
+    "id": "n05",
+    "label": false,
+    "pConflict": 0.68
+   },
+   {
+    "id": "n06",
+    "label": false,
+    "pConflict": 0.79
+   },
+   {
+    "id": "n07",
+    "label": false,
+    "pConflict": 0.04
+   },
+   {
+    "id": "n08",
+    "label": false,
+    "pConflict": 0.89
+   },
+   {
+    "id": "n09",
+    "label": false,
+    "pConflict": 0.08
+   },
+   {
+    "id": "n10",
+    "label": false,
+    "pConflict": 0.08
+   }
+  ],
+  "everywhere": [
+   {
+    "id": "c01",
+    "label": true,
+    "pConflict": 0.04
+   },
+   {
+    "id": "c02",
+    "label": true,
+    "pConflict": 0.03
+   },
+   {
+    "id": "c03",
+    "label": true,
+    "pConflict": 0.74
+   },
+   {
+    "id": "c04",
+    "label": true,
+    "pConflict": 0.97
+   },
+   {
+    "id": "c05",
+    "label": true,
+    "pConflict": 0.97
+   },
+   {
+    "id": "c06",
+    "label": true,
+    "pConflict": 0.96
+   },
+   {
+    "id": "c07",
+    "label": true,
+    "pConflict": 0.16
+   },
+   {
+    "id": "c08",
+    "label": true,
+    "pConflict": 0.98
+   },
+   {
+    "id": "c09",
+    "label": true,
+    "pConflict": 0.91
+   },
+   {
+    "id": "c10",
+    "label": true,
+    "pConflict": 0.95
+   },
+   {
+    "id": "n01",
+    "label": false,
+    "pConflict": 0.08
+   },
+   {
+    "id": "n02",
+    "label": false,
+    "pConflict": 0.09
+   },
+   {
+    "id": "n03",
+    "label": false,
+    "pConflict": 0.08
+   },
+   {
+    "id": "n04",
+    "label": false,
+    "pConflict": 0.94
+   },
+   {
+    "id": "n05",
+    "label": false,
+    "pConflict": 0.66
+   },
+   {
+    "id": "n06",
+    "label": false,
+    "pConflict": 0.97
+   },
+   {
+    "id": "n07",
+    "label": false,
+    "pConflict": 0.03
+   },
+   {
+    "id": "n08",
+    "label": false,
+    "pConflict": 0.97
+   },
+   {
+    "id": "n09",
+    "label": false,
+    "pConflict": 0.08
+   },
+   {
+    "id": "n10",
+    "label": false,
+    "pConflict": 0.08
+   }
+  ]
+ }
+}

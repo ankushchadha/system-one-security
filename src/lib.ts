@@ -30,7 +30,9 @@ export function args(): { backends: Backend[]; runs: number; only?: string[] } {
 export function save(experiment: string, backend: string, data: unknown): string {
   const dir = path.join(ROOT, 'results', experiment);
   fs.mkdirSync(dir, { recursive: true });
-  const file = path.join(dir, `${backend}-${new Date().toISOString().replace(/[:.]/g, '-')}.json`);
+  // With JEV_MODEL set, the file name carries the version so runs of different versions never mix.
+  const tag = backend === 'jev' && process.env.JEV_MODEL ? process.env.JEV_MODEL : backend;
+  const file = path.join(dir, `${tag}-${new Date().toISOString().replace(/[:.]/g, '-')}.json`);
   fs.writeFileSync(file, JSON.stringify({ ranAt: new Date().toISOString(), models: [...seenModels], data }, null, 1));
   return path.relative(ROOT, file);
 }

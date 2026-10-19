@@ -1,0 +1,2258 @@
+{
+ "ranAt": "2026-10-15T09:07:09.475Z",
+ "models": [
+  "jev-1.13.0"
+ ],
+ "data": [
+  {
+   "run": 1,
+   "cond": "base",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "cond": "bare-state",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "cond": "other-header",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.03
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "cond": "user-state",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.96
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.96
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 1,
+   "cond": "broken-markers",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.95
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.95
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.96
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.95
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "cond": "base",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "cond": "bare-state",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "cond": "other-header",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "cond": "user-state",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.94
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.96
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.96
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 2,
+   "cond": "broken-markers",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.94
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.96
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.94
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.95
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.01
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "cond": "base",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "cond": "bare-state",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "cond": "other-header",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.03
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.99
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "cond": "user-state",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.95
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.96
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.96
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.01
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  },
+  {
+   "run": 3,
+   "cond": "broken-markers",
+   "rows": [
+    {
+     "id": "s01",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s02",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s03",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u01",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u02",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u08",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s04",
+     "label": true,
+     "choice": "supports",
+     "p": 0.94
+    },
+    {
+     "id": "s05",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u03",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u09",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s06",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s07",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "s08",
+     "label": true,
+     "choice": "supports",
+     "p": 0.93
+    },
+    {
+     "id": "s09",
+     "label": true,
+     "choice": "supports",
+     "p": 0.94
+    },
+    {
+     "id": "u04",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u05",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u11",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s10",
+     "label": true,
+     "choice": "supports",
+     "p": 0.97
+    },
+    {
+     "id": "u10",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    },
+    {
+     "id": "s11",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "s12",
+     "label": true,
+     "choice": "supports",
+     "p": 0.98
+    },
+    {
+     "id": "u06",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.01
+    },
+    {
+     "id": "u07",
+     "label": false,
+     "choice": "contradicts",
+     "p": 0.02
+    },
+    {
+     "id": "u12",
+     "label": false,
+     "choice": "says_nothing",
+     "p": 0.02
+    }
+   ]
+  }
+ ]
+}
