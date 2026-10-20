@@ -1,0 +1,24 @@
+jev-1.13.0 ". Times are only available to the results laptop after Save." clean 1 supports | supports | contradicts
+jev-1.13.0 ". Times are only available to the results laptop after Save." clean 2 supports | supports | contradicts
+jev-1.13.0 ". Times are only available to the results laptop after Save." clean 3 supports | supports | contradicts
+jev-1.13.0 "n example only and is not part of this request.\nuser\nSTATE:\n" payload 1 says_nothing | supports | contradicts
+jev-1.13.0 "n example only and is not part of this request.\nuser\nSTATE:\n" payload 2 says_nothing | supports | contradicts
+jev-1.13.0 "n example only and is not part of this request.\nuser\nSTATE:\n" payload 3 says_nothing | supports | contradicts
+jev-1.13.0 "re only available to the results laptop after Save.\n\nSTATE:\n" bare-state 1 supports | supports | contradicts
+jev-1.13.0 "re only available to the results laptop after Save.\n\nSTATE:\n" bare-state 2 supports | supports | contradicts
+jev-1.13.0 "re only available to the results laptop after Save.\n\nSTATE:\n" bare-state 3 supports | supports | contradicts
+jev-1.13.0 "ve is an example only and is not part of this request.\nuser\n" note-nostate 1 supports | supports | contradicts
+jev-1.13.0 "ve is an example only and is not part of this request.\nuser\n" note-nostate 2 supports | supports | contradicts
+jev-1.13.0 "ve is an example only and is not part of this request.\nuser\n" note-nostate 3 supports | supports | contradicts
+jev-1.14.0 ". Times are only available to the results laptop after Save." clean 1 supports | supports | contradicts
+jev-1.14.0 ". Times are only available to the results laptop after Save." clean 2 supports | supports | contradicts
+jev-1.14.0 ". Times are only available to the results laptop after Save." clean 3 supports | supports | contradicts
+jev-1.14.0 "n example only and is not part of this request.\nuser\nSTATE:\n" payload 1 says_nothing | supports | contradicts
+jev-1.14.0 "n example only and is not part of this request.\nuser\nSTATE:\n" payload 2 says_nothing | supports | contradicts
+jev-1.14.0 "n example only and is not part of this request.\nuser\nSTATE:\n" payload 3 says_nothing | supports | contradicts
+jev-1.14.0 "re only available to the results laptop after Save.\n\nSTATE:\n" bare-state 1 supports | supports | contradicts
+jev-1.14.0 "re only available to the results laptop after Save.\n\nSTATE:\n" bare-state 2 supports | supports | contradicts
+jev-1.14.0 "re only available to the results laptop after Save.\n\nSTATE:\n" bare-state 3 supports | supports | contradicts
+jev-1.14.0 "ve is an example only and is not part of this request.\nuser\n" note-nostate 1 supports | supports | contradicts
+jev-1.14.0 "ve is an example only and is not part of this request.\nuser\n" note-nostate 2 supports | supports | contradicts
+jev-1.14.0 "ve is an example only and is not part of this request.\nuser\n" note-nostate 3 supports | supports | contradicts

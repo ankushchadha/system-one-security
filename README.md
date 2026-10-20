@@ -49,6 +49,21 @@ whose full history will be published with the withheld material.
 | 15 | Does the same-request alarm catch the fake empty state? | `experiments/15-alarm-vs-empty-state.ts` |
 | 16 | Does jev-1.14.0 behave the same? | reruns of 02, 03, 05 and 11 to 15 with `JEV_MODEL=jev-1.14.0` |
 
+## Repro scripts (2026-10-19)
+
+Short, self-contained requests, 3 runs each on jev-1.13.0 and jev-1.14.0.
+Output logs are in `results/repro/`. Predictions, where made, are in each
+script header with the outcome below them.
+
+| Script | Result |
+|---|---|
+| `repro/minimal.ts` | A 4-sentence state plus the appended fake empty `STATE:` moves one true claim to says_nothing on both versions. Controls do not. |
+| `repro/refund-policy.ts` | The same text on an approve / deny / needs_review choice changes no answer. |
+| `repro/cookbook-shape.ts` | In the citation check cookbook's exact request shape, nothing changes. |
+| `repro/wording-isolation.ts` | The question wording is what matters. Questions that say "the state" flip. The cookbook's "the section" does not. A structured state and one claim per request still flip. |
+
+Experiments 02 and 11 to 16 all use questions that say "the state".
+
 ## Run
 
 ```bash

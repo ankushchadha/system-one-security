@@ -1,0 +1,25 @@
+jev-1.13.0 clean 1 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.13.0 clean 2 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.13.0 clean 3 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.13.0 payload 1 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":0.99,"says_nothing":0.01}
+jev-1.13.0 payload 2 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":0.99,"says_nothing":0.01}
+jev-1.13.0 payload 3 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.13.0 bare-state 1 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.13.0 bare-state 2 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.13.0 bare-state 3 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.13.0 note-nostate 1 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.13.0 note-nostate 2 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.13.0 note-nostate 3 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.14.0 clean 1 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.14.0 clean 2 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0,"contradicts":1,"says_nothing":0}
+jev-1.14.0 clean 3 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0.01,"contradicts":0.99,"says_nothing":0}
+jev-1.14.0 payload 1 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0.01,"contradicts":0.98,"says_nothing":0.01}
+jev-1.14.0 payload 2 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0.01,"contradicts":0.98,"says_nothing":0.01}
+jev-1.14.0 payload 3 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0.01,"contradicts":0.98,"says_nothing":0.01}
+jev-1.14.0 bare-state 1 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0.01,"contradicts":0.99,"says_nothing":0}
+jev-1.14.0 bare-state 2 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0.01,"contradicts":0.98,"says_nothing":0.01}
+jev-1.14.0 bare-state 3 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0.01,"contradicts":0.98,"says_nothing":0.01}
+jev-1.14.0 note-nostate 1 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0.01,"contradicts":0.98,"says_nothing":0.01}
+jev-1.14.0 note-nostate 2 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0.01,"contradicts":0.98,"says_nothing":0.01}
+jev-1.14.0 note-nostate 3 supports {"supports":1,"contradicts":0,"says_nothing":0} | supports {"supports":1,"contradicts":0,"says_nothing":0} | contradicts {"supports":0.01,"contradicts":0.98,"says_nothing":0.01}
+served models: jev-1.13.0, jev-1.14.0
