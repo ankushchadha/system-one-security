@@ -1,0 +1,25 @@
+jev-1.13.0 the state   clean   1 supports:0 | supports:0 | contradicts:0.01
+jev-1.13.0 the state   clean   2 supports:0 | supports:0 | contradicts:0.01
+jev-1.13.0 the state   clean   3 supports:0 | supports:0 | contradicts:0.01
+jev-1.13.0 the state   payload 1 says_nothing:0.66 | supports:0.25 | contradicts:0.06
+jev-1.13.0 the state   payload 2 says_nothing:0.63 | supports:0.28 | contradicts:0.05
+jev-1.13.0 the state   payload 3 says_nothing:0.64 | supports:0.35 | contradicts:0.07
+jev-1.13.0 `section`   clean   1 supports:0 | supports:0 | contradicts:0.01
+jev-1.13.0 `section`   clean   2 supports:0 | supports:0 | contradicts:0.01
+jev-1.13.0 `section`   clean   3 supports:0 | supports:0 | contradicts:0.01
+jev-1.13.0 `section`   payload 1 supports:0 | supports:0 | contradicts:0
+jev-1.13.0 `section`   payload 2 supports:0 | supports:0 | contradicts:0
+jev-1.13.0 `section`   payload 3 supports:0 | supports:0 | contradicts:0.01
+jev-1.14.0 the state   clean   1 supports:0 | supports:0 | contradicts:0.04
+jev-1.14.0 the state   clean   2 supports:0 | supports:0 | contradicts:0.03
+jev-1.14.0 the state   clean   3 supports:0 | supports:0 | contradicts:0.03
+jev-1.14.0 the state   payload 1 says_nothing:0.7 | supports:0.22 | contradicts:0.16
+jev-1.14.0 the state   payload 2 says_nothing:0.65 | supports:0.23 | contradicts:0.09
+jev-1.14.0 the state   payload 3 says_nothing:0.68 | supports:0.16 | contradicts:0.14
+jev-1.14.0 `section`   clean   1 supports:0 | supports:0 | contradicts:0.03
+jev-1.14.0 `section`   clean   2 supports:0 | supports:0 | contradicts:0.01
+jev-1.14.0 `section`   clean   3 supports:0 | supports:0 | contradicts:0.02
+jev-1.14.0 `section`   payload 1 supports:0 | supports:0 | contradicts:0.03
+jev-1.14.0 `section`   payload 2 supports:0 | supports:0 | contradicts:0.03
+jev-1.14.0 `section`   payload 3 supports:0 | supports:0 | contradicts:0.05
+served models: jev-1.13.0, jev-1.14.0

@@ -10,7 +10,7 @@ instead of generating text.
 - **The models believe the state.** Edit a fact in the state and the verdict follows it (03).
 - **Hosted Clef ignored everything after about 2,048 tokens of state** when tested on 2026-10-03 to 05, with no sign in the response. Cloudflare confirmed it was a bug and fixed it; a rerun on 2026-10-08 shows it gone. I found it independently, and while checking prior work came across earlier public reports from a day or two before (haystackeditor/stop-rules PR #1, matthewyjiang/rho PR #1388). Claims whose evidence sat past the cut failed, and text added at the start pushed facts at the end out of view (01, 04, historical).
 - **Instruction-style injections mostly failed.** No wrong claim passed on the choice answer in any condition; on the yes/no answer, two injections let one wrong claim through in every run. On Jev, a "labels are swapped" note at the end of the state pushed nearly every correct claim below 0.5 on the yes/no answer (02).
-- **On Jev, a fake empty state hides the real one, for questions that say "the state".** Text after the evidence that looks like the end of a section, followed by an empty `STATE:` header, makes Jev answer says_nothing for true claims. No instruction is needed. A bare `STATE:` line does nothing. No false claim was accepted on the choice answer, the yes/no answer kept saying supported, and a same-request injection alarm missed it (02, 11 to 15). Asking about "the section" instead, as TypeSafe's citation check cookbook does, stopped it (repro/).
+- **On Jev, a fake empty state hides the real one, for questions that say "the state".** Text after the evidence that looks like the end of a section, followed by an empty `STATE:` header, makes Jev answer says_nothing for true claims. No instruction is needed. A bare `STATE:` line does nothing. No false claim was accepted on the choice answer, the yes/no answer kept saying supported, and a same-request injection alarm missed it (02, 11 to 15). Asking about "the section", or naming the field as the docs advise, stopped it (repro/).
 - **It got stronger on jev-1.14.0.** Measured back to back with jev-1.13.0 on 2026-10-15: plain text appended after the evidence now moves most true claims, and the swap note at the end lets several false claims through on the yes/no answer, all just over 0.5 (16).
 
 Details, scope and n for every claim: [`docs/CLAIMS.md`](docs/CLAIMS.md).
@@ -49,9 +49,9 @@ whose full history will be published with the withheld material.
 | 15 | Does the same-request alarm catch the fake empty state? | `experiments/15-alarm-vs-empty-state.ts` |
 | 16 | Does jev-1.14.0 behave the same? | reruns of 02, 03, 05 and 11 to 15 with `JEV_MODEL=jev-1.14.0` |
 
-## Repro scripts (2026-10-19)
+## Repro scripts
 
-Short, self-contained requests, 3 runs each on jev-1.13.0 and jev-1.14.0.
+Short, self-contained requests (2026-10-19 and 20), 3 runs each on jev-1.13.0 and jev-1.14.0.
 Output logs are in `results/repro/`. Predictions, where made, are in each
 script header with the outcome below them.
 
@@ -60,7 +60,9 @@ script header with the outcome below them.
 | `repro/minimal.ts` | A 4-sentence state plus the appended fake empty `STATE:` moves one true claim to says_nothing on both versions. Controls do not. |
 | `repro/refund-policy.ts` | The same text on an approve / deny / needs_review choice changes no answer. |
 | `repro/cookbook-shape.ts` | In the citation check cookbook's exact request shape, nothing changes. |
-| `repro/wording-isolation.ts` | The question wording is what matters. Questions that say "the state" flip. The cookbook's "the section" does not. A structured state and one claim per request still flip. |
+| `repro/wording-isolation.ts` | A structured state and one claim per request still flip. The cookbook's question and option wording does not. |
+| `repro/single-word-swap.ts` | Replacing only "the state" with "the section" stops it. |
+| `repro/named-field.ts` | A `{"section": ...}` state with questions that name `` `section` ``, as the docs advise, stops it. "The state" on the same state still flips. |
 
 Experiments 02 and 11 to 16 all use questions that say "the state".
 
